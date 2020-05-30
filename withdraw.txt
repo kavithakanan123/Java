@@ -1,0 +1,12 @@
+Welcome to AA Bank Limited
+Please Enter Your PIN Number 
+1234Abcd
+Account Name Holder : Arjun M
+Please choose the following options 
+1 - Show Balance , 2 - Deposit Amount , 3 - Withdraw Amount
+3
+Please Enter the Amount to Witdraw
+4000
+You have successfully withdraw 4000.0 
+Now your balnce is 1000.0
+BUILD SUCCESSFUL (total time: 14 seconds)

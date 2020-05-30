@@ -1,0 +1,9 @@
+Welcome to AA Bank Limited
+Please Enter Your PIN Number 
+1234Abcd
+Account Name Holder : Arjun M
+Please choose the following options 
+1 - Show Balance , 2 - Deposit Amount , 3 - Withdraw Amount
+1
+Your Current Balance is 5000.0
+BUILD SUCCESSFUL (total time: 13 seconds)
